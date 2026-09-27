@@ -1,8 +1,8 @@
 <div align="center">
 
-<h1>Refactor &amp; Recovery Pipeline</h1>
+<h1>Site Mirroring + Refactor &amp; Recovery Pipeline</h1>
 
-<p>A toolchain for refactoring static HTML into dynamic modular PHP templates, optimizing CSS via Node.js/PurgeCSS, and recovering missing assets from backup files.</p>
+<p>An end-to-end toolchain for mirroring a website and refactoring its static HTML into dynamic modular PHP templates, optimizing CSS via Node.js/PurgeCSS, and recovering missing assets from backup files.</p>
 
 <p>
   <img src="https://img.shields.io/badge/Python-v3.x-blue.svg" alt="Python Version" />
