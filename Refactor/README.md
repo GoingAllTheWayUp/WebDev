@@ -95,6 +95,7 @@ node clean-css.js</code></pre>
 
 <pre><code>python retrieve_missing_files.v3.py</code></pre>
 
+<h3>Step 5: Remove html from root dir. refact.clean.py </h3>
 <hr />
 
 <h2>Script Reference Matrix</h2>
@@ -132,6 +133,11 @@ node clean-css.js</code></pre>
       <td><code>retrieve_missing_files.v3.py</code></td>
       <td>Python</td>
       <td>Active recovery engine fetching missing 404 assets from backup logs[cite: 13].</td>
+    </tr>
+        <tr>
+      <td><code>refact.clean.py</code></td>
+      <td>Python</td>
+      <td>Removes *.html recursively from @ROOT level of Mirror once PHP has been established</td>
     </tr>
   </tbody>
 </table>
