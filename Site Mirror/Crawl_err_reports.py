@@ -3,8 +3,8 @@ import requests
 from urllib.parse import urljoin
 
 # >>> SET THESE TO MATCH YOUR SETUP <<<
-BASE_URL   = "https://biketechdetroit.com/"
-OUTPUT_DIR = r"F:\Text\Hyper Text Markup\TECH\biketechdetroit.com"
+BASE_URL   = "https://wxample.com/"
+OUTPUT_DIR = r"X:\Local\Host\ROOT\example.com"
 ERROR_LOG  = os.path.join(OUTPUT_DIR, "crawl_errors_REBUILT.txt")
 
 errors = []
