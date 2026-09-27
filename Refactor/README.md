@@ -95,7 +95,8 @@ node clean-css.js</code></pre>
 
 <pre><code>python retrieve_missing_files.v3.py</code></pre>
 
-<h3>Step 5: Remove html from root dir. refact.clean.py </h3>
+<h3>Step 6: Remove *.html files from localhost root dir.</h3>
+<p>run refact.clean.py or proform manual deletions.</p>
 <hr />
 
 <h2>Script Reference Matrix</h2>
