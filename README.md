@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Site Mirroring + Refactor &amp; Recovery Pipeline</h1>
+<h1>Site Mirroring &amp; Refactor + Recovery Pipeline</h1>
 
 <p>An end-to-end toolchain for mirroring a website and refactoring its static HTML into dynamic modular PHP templates, optimizing CSS via Node.js/PurgeCSS, and recovering missing assets from backup files.</p>
 
