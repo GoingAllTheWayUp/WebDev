@@ -4,7 +4,7 @@ import urllib.parse
 import urllib.request
 from bs4 import BeautifulSoup
 
-LIVE_BASE = "https://biketechdetroit.com"
+LIVE_BASE = "https://example.com"
 LOCAL_BASE = "http://localhost:8000"
 
 # Set crawl depth (1 = homepage + direct subpages; 2 = subpages of subpages)
